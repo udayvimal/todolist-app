@@ -1,0 +1,10 @@
+# Virtual environment
+to_env/
+
+# SQLite database
+tasks.db
+
+# Python cache
+__pycache__/
+*.pyc
+
